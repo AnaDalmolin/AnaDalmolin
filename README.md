@@ -2,6 +2,7 @@
 
 
 - 🔭 Atualmente trabalhado com FullStack.
+- 🎮 Meu hobby é jogar e fazer lives nos tempos livre.
 
 
   <div style="display: inline_block"><br>
@@ -24,6 +25,3 @@
   <a href="https://www.linkedin.com/in/ana-caroline-253605164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.youtube.com/channel/UCwdfPEOLtNQBePy20yfibVQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-  
-  
-  
