@@ -1,7 +1,7 @@
 ### Olá! Me chamo Aninha DalMolin  👋
 
 
-- 🔭 Atualmente trabalhado com Front-end
+- 🔭 Atualmente trabalhado com FullStack.
 
 
   <div style="display: inline_block"><br>
