@@ -1,8 +1,7 @@
 ### Olá! Me chamo Aninha DalMolin  👋
 
 
-- 🔭 Atualmente trabalhado com FullStack.
-- 🎮 Meu hobby é jogar e fazer lives nos tempos livre.
+- 🔭 Engenheiro de software júnior.
 
 
   <div style="display: inline_block"><br>
