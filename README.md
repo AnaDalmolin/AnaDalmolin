@@ -1,7 +1,7 @@
 ### Olá! Me chamo Aninha DalMolin  👋
 
 
-- 🔭 Engenheiro de software júnior.
+- 🔭 Engenheiro de software senior.
 
 
   <div style="display: inline_block"><br>
